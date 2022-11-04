@@ -40,4 +40,4 @@ env = env = UnityEnvironment(file_name="Banana.app")
 ```
 
 ### Instructions
-Use nAVIGATION.ipynb to RUN the agent and use saved network weights (checkpoint.pth) to see the performance of the agent.
+Use Navigation.ipynb to RUN the agent and use saved network weights (checkpoint.pth) to see the performance of the agent.
